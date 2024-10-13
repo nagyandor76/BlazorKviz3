@@ -1,0 +1,175 @@
+[
+    {
+        "question": "Könyv",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Book"
+    },
+    {
+        "question": "Pulóver",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Jumper"
+    },
+    {
+        "question": "Ceruza",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Pencil"
+    },
+    {
+        "question": "Autó",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Car"
+    },
+    {
+        "question": "Sapka",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Hat"
+    },
+    {
+        "question": "Süti",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Cake"
+    },    
+    {
+        "question": "Zokni",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Socks"
+    },   
+     {
+        "question": "Toll",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Pen"
+    }, 
+    {
+        "question": "Táska",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Bag"
+    }, 
+    {
+        "question": "Fogkefe",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Toothbrush"
+    },  
+    {
+        "question": "Póló",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "T-shirt"
+    },    
+    {
+        "question": "Hajkefe",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Hairbrush"
+    },    
+    {
+        "question": "Gitár",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Guitar"
+    },    
+    {
+        "question": "Lufi",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Baloon"
+    },
+    {
+        "question": "Törölkoző",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Towel"
+    },
+    {
+        "question": "Tolltartó",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Pencilcase"
+    },
+    {
+        "question": "Kutya",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Dog"
+    },
+    {
+        "question": "Vonat",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Train"
+    },
+    {
+        "question": "Cipő",
+        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat" , "Jumper", "Pen", "Pencil",  "Pencilcase",  "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
+        "correctAnswer": "Shoes"
+    },
+
+    {
+        "question": "Egér",
+        "answers": [ "Cat", "Dog", "Mouse", "Black jaguar" ],
+        "correctAnswer": "Mouse"
+    },
+    {
+        "question": "Krokodil",
+        "answers": [ "Cat", "Dog", "Crocodile","Mouse", "Black jaguar" ],
+        "correctAnswer": "Crocodile"
+    },
+    {
+        "question": "Oroszlán",
+        "answers": [ "Cat", "Monkey", "Tiger",  "Zebra",  "Snake",  "Lion", "Crocodile","Mouse", "Black jaguar" ],
+        "correctAnswer": "Lion"
+    },
+    {
+        "question": "Fekete párduc",
+        "answers": [ "Cat", "Monkey", "Tiger",  "Zebra",  "Snake",  "Lion", "Crocodile","Mouse", "Black jaguar" ],
+        "correctAnswer": "Black jaguar"
+    },
+    {
+        "question": "Majom",
+        "answers": [ "Cat", "Monkey", "Tiger",  "Zebra",  "Snake",  "Lion", "Crocodile","Mouse", "Black jaguar" ],
+        "correctAnswer": "Monkey"
+    },
+
+    {
+        "question": "Tanár",
+        "answers": [ "Teacher", "Chair", "Table",  "Clock",  "Red",  "Green", "Blue", "Orange", "Yellow", "Pink" ],
+        "correctAnswer": "Teacher"
+    },
+    {
+        "question": "Szék",
+        "answers": [ "Teacher", "Chair", "Table",  "Clock",  "Red",  "Green", "Blue", "Orange", "Yellow", "Pink" ],
+        "correctAnswer": "Chair"
+    },
+    {
+        "question": "Asztal",
+        "answers": [ "Teacher", "Chair", "Table",  "Clock",  "Red",  "Green", "Blue", "Orange", "Yellow", "Pink" ],
+        "correctAnswer": "Table"
+    },
+    {
+        "question": "Óra",
+        "answers": [ "Teacher", "Chair", "Table",  "Clock",  "Red",  "Green", "Blue", "Orange", "Yellow", "Pink" ],
+        "correctAnswer": "Clock"
+    },
+    {
+        "question": "Piros",
+        "answers": [ "Teacher", "Chair", "Table",  "Clock",  "Red",  "Green", "Blue", "Orange", "Yellow", "Pink" ],
+        "correctAnswer": "Red"
+    },
+    {
+        "question": "Zöld",
+        "answers": [ "Teacher", "Chair", "Table",  "Clock",  "Red",  "Green", "Blue", "Orange", "Yellow", "Pink" ],
+        "correctAnswer": "Green"
+    },
+    {
+        "question": "Kék",
+        "answers": [ "Teacher", "Chair", "Table",  "Clock",  "Red",  "Green", "Blue", "Orange", "Yellow", "Pink" ],
+        "correctAnswer": "Blue"
+    },
+    {
+        "question": "Narancssárga",
+        "answers": [ "Teacher", "Chair", "Table",  "Clock",  "Red",  "Green", "Blue", "Orange", "Yellow", "Pink" ],
+        "correctAnswer": "Orange"
+    },
+    {
+        "question": "Sárga",
+        "answers": [ "Teacher", "Chair", "Table",  "Clock",  "Red",  "Green", "Blue", "Orange", "Yellow", "Pink" ],
+        "correctAnswer": "Yellow"
+    },
+    {
+        "question": "Rózsaszín",
+        "answers": [ "Teacher", "Chair", "Table",  "Clock",  "Red",  "Green", "Blue", "Orange", "Yellow", "Pink" ],
+        "correctAnswer": "Pink"
+    }
+
+]

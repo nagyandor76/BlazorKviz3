@@ -1,0 +1,73 @@
+[
+    {
+        "question": "Hi, I'm a new student. ____ name's Maria",
+        "answers": [ " " ],
+        "correctAnswer": "My"
+    },
+    {
+        "question": "This is my friend Anna. ____ mother is my teacher",
+        "answers": [ " " ],
+        "correctAnswer": "Her"
+    },
+    {
+        "question": "Who are you? What's ____ name",
+        "answers": [ " " ],
+        "correctAnswer": "your"
+    },
+    {
+        "question": "We love English, and Mr Forester, the English teacher is  ____ favorite teacher",
+        "answers": [ " " ],
+        "correctAnswer": "Our"
+    },   
+    {
+        "question": "Scott and Stephen are my cousins.  ____ modher is my aunt",
+        "answers": [ " " ],
+        "correctAnswer": "Their"
+    },   
+    {
+        "question": "Thist is my father. _____ name is John.",
+        "answers": [ "His", "He's" ],
+        "correctAnswer": "His"
+    },
+    {
+        "question": "Thist is my father. _____ 40 years old.",
+        "answers": [ "His", "He's", "He are" ],
+        "correctAnswer": "He's"
+    },  
+    {
+        "question": "A: This is Mary. B: ____ two cousins? A:no, ____.We're sisters.Mary's twelve yearsold. ",
+        "answers": [ "Are you / are", "You are / aren't", "Are you / aren't"],
+        "correctAnswer": "Are you / aren't"
+    },
+    {
+        "question": "Henry ___ fifteen years old. He ___ only ten.",
+        "answers": [ "are / is","isn't / is", "are / aren't", "isn't / aren't"],
+        "correctAnswer": "isn't / is"
+    },
+    {
+        "question": "this is my new tablet and this is my new mobile phone. ___ my new gadgets.",
+        "answers": [ "We're", "they're" ],
+        "correctAnswer": "they're"
+    },
+    {
+        "question": "A: What year ____ you in? B: We ___ in year 5.",
+        "answers": [ "are , am", "is , am", "are , are", "is , are" ],
+        "correctAnswer": "are , are"
+    },
+
+
+    {
+        "question": "My brother ____ very good at math, but ___ .",
+        "answers": [ "is , I am not", "is , aren't", "are , I am not", "are , aren't" ],
+        "correctAnswer": "is , I am not"
+    },
+
+
+    {
+        "question": " ____you a geography teacher? No, I ___ a history teacher." ,
+        "answers": [ "Is , are", "Is , am ", "Are , are", "Are , am" ],
+        "correctAnswer": "Are , am"
+    }
+
+
+]
