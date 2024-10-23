@@ -1,10 +1,6 @@
-{
-  "quizzes": [
-        "English Janka",
-        "English Vanda",
-        "DefaultQuestions",
-        "Math"
-        ] 
-}
-
- 
+[
+    "DefaultQuestions",
+    "English Janka",
+    "English Vanda",
+    "Math"
+]
