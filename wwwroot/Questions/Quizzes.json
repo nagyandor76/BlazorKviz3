@@ -1,6 +1,9 @@
-[
-    "DefaultQuestions",
-    "English Janka",
-    "English Vanda",
-    "Math"
-]
+{
+    "quizzes": [
+        "Basic English Quiz",
+        "Advanced Vocabulary Quiz",
+        "Grammar Test",
+        "Idioms and Phrases Quiz",
+        "Reading Comprehension"
+    ]
+}
