@@ -1,26 +1,6 @@
 [
     {
-        "question": "Könyv",
-        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat", "Jumper", "Pen", "Pencil", "Pencilcase", "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
-        "correctAnswer": "Book"
-    },
-    {
-        "question": "Pulóver",
-        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat", "Jumper", "Pen", "Pencil", "Pencilcase", "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
-        "correctAnswer": "Jumper"
-    },
-    {
-        "question": "Ceruza",
-        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat", "Jumper", "Pen", "Pencil", "Pencilcase", "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
-        "correctAnswer": "Pencil"
-    },
-    {
-        "question": "Autó",
-        "answers": [ "Bag", "Baloon", "Book", "Cake", "Car", "Cat", "Dog", "Guitar", "Hairbrush", "Hat", "Jumper", "Pen", "Pencil", "Pencilcase", "Shoes", "Socks", "T-shirt", "Toothbrush", "Towel", "Train" ],
-        "correctAnswer": "Car"
-    },
-    {
-        "question": "Pair this please",
+        "question": "Pair this please 1",
         "answers": [ "Book", "Cake", "Car", "Cat", "Dog", "Jumper" ],
         "correctAnswer": "pair",
         "answerPairs": [ "Autó", "Könyv", "Macska", "Süti", "Kutya", "Csizma" ],
@@ -28,5 +8,27 @@
         "pairLanguage": "quiet",
         "timeLimit" : 30
 
+    },
+    {
+        "question": "Pair this please 2",
+        "answers": [ "Mother", "Father", "Girl", "Boy", "Grandmather", "Child" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Anya", "Apa", "Lány", "Fiú", "Nagymama", "Gyerek" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit" : 30
+
+    },
+    {
+        "question": "Pair this please 3",
+        "answers": [ "Rabbit", "Rice", "Monkey", "Bread", "Tomato", "Oil" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Nyúl", "Rizs", "Majom", "Kenyér", "Paradicsom", "Olaj" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit" : 30
+
     }
+
+
 ]
