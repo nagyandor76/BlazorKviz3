@@ -1,0 +1,39 @@
+[
+    {
+        "question": "Szorzás páros",
+        "answers": [ "2 * 4", "4 * 4", "10 * 4", "6 * 4", "8 * 4" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "8", "16", "40", "24", "32" ],
+        "answerLanguage": "quiet",
+        "pairLanguage": "hu-HU",
+        "timeLimit": 25
+    },
+    {
+        "question": "Szorzás páratlan",
+        "answers": [ "5 * 4", "7 * 4", "3 * 4", "9 * 4", "1 * 4" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "20", "28", "12", "36", "4" ],
+        "answerLanguage": "quiet",
+        "pairLanguage": "hu-HU",
+        "timeLimit": 25
+    },
+    {
+        "question": "Osztás kicsi",
+        "answers": [ "20 : 4", "12 : 4", "4 : 4", "16 : 4", "8 : 4" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "5", "3", "1", "4", "2" ],
+        "answerLanguage": "quiet",
+        "pairLanguage": "hu-HU",
+        "timeLimit": 25
+    },
+    {
+        "question": "Osztás nagy",
+        "answers": [ "36 : 4", "28 : 4", "40 : 4", "32 : 4", "24 : 4" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "9", "7", "10", "8", "6" ],
+        "answerLanguage": "quiet",
+        "pairLanguage": "hu-HU",
+        "timeLimit": 25
+    }
+
+]

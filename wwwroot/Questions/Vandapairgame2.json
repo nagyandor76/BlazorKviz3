@@ -1,34 +1,32 @@
 [
+
     {
-        "question": "Pair this please 1",
-        "answers": [ "Book", "Cake", "Car", "Cat", "Dog", "Jumper" ],
+        "question": "Pair this please",
+        "answers": [ "Bag", "Hairbrush", "Pen", "Shoes", "T-shirt", "Towel", "Train" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "Autó", "Könyv", "Macska", "Süti", "Kutya", "Csizma" ],
+        "answerPairs": [ "Táska", "Hajkefe", "Toll", "Cipő", "Póló", "Törölköző", "Vonat" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit" : 30
+        "timeLimit": 30
+    },
+    {
+        "question": "Pair this please 2",
+        "answers": [ "Pink", "Chair", "Table", "Clock", "Red", "Green" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Rózsaszín", "Szék", "Asztal", "Óra", "Piros", "Zöld" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
 
     },
     {
         "question": "Pair this please 2",
-        "answers": [ "Mother", "Father", "Girl", "Boy", "Grandmather", "Child" ],
+        "answers": [ "Blue", "Orange", "Yellow", "Pink", "Black", "White" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "Anya", "Apa", "Lány", "Fiú", "Nagymama", "Gyerek" ],
+        "answerPairs": [ "Kék", "Narancssárga", "Járga", "Rózsaszín", "Fekete", "Fehér" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit" : 30
-
-    },
-    {
-        "question": "Pair this please 3",
-        "answers": [ "Rabbit", "Rice", "Monkey", "Bread", "Tomato", "Oil" ],
-        "correctAnswer": "pair",
-        "answerPairs": [ "Nyúl", "Rizs", "Majom", "Kenyér", "Paradicsom", "Olaj" ],
-        "answerLanguage": "en-GB",
-        "pairLanguage": "quiet",
-        "timeLimit" : 30
+        "timeLimit": 25
 
     }
-
-
 ]

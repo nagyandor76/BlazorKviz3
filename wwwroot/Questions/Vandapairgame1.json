@@ -1,0 +1,34 @@
+[
+    {
+        "question": "Pair this please 1",
+        "answers": [ "Book", "Cake", "Car", "Cat", "Dog", "Boots" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Könyv", "Süti", "Auto", "Macska", "Kutya", "Csizma" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit" : 30
+
+    },
+    {
+        "question": "Pair this please 2",
+        "answers": [ "Mother", "Father", "Girl", "Boy", "Grandmother", "Child" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Anya", "Apa", "Lány", "Fiú", "Nagymama", "Gyerek" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit" : 30
+
+    },
+    {
+        "question": "Pair this please 3",
+        "answers": [ "Rabbit", "Rice", "Monkey", "Bread", "Tomato", "Oil" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Nyúl", "Rizs", "Majom", "Kenyér", "Paradicsom", "Olaj" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit" : 30
+
+    }
+
+
+]
