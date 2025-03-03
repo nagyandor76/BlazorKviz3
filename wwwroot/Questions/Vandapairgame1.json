@@ -1,32 +1,32 @@
 [
     {
-        "question": "Pair this please 1",
-        "answers": [ "Book", "Cake", "Car", "Cat", "Dog", "Boots" ],
+        "question": "Szorzótábla #1",
+        "answers": [ "2*2", "6*7", "5*8", "7*9", "3*4", "10*5" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "Könyv", "Süti", "Auto", "Macska", "Kutya", "Csizma" ],
-        "answerLanguage": "en-GB",
+        "answerPairs": [ "4", "42", "50", "63", "12", "50" ],
+        "answerLanguage": "quiet",
         "pairLanguage": "quiet",
-        "timeLimit" : 30
+        "timeLimit": 30
 
     },
     {
-        "question": "Pair this please 2",
-        "answers": [ "Mother", "Father", "Girl", "Boy", "Grandmother", "Child" ],
+        "question": "Szorzótábla #2",
+        "answers": [ "10*7", "8*4", "6*4", "5*7", "9*6", "3*9" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "Anya", "Apa", "Lány", "Fiú", "Nagymama", "Gyerek" ],
-        "answerLanguage": "en-GB",
+        "answerPairs": [ "70", "32", "24", "35", "54", "27" ],
+        "answerLanguage": "quiet",
         "pairLanguage": "quiet",
-        "timeLimit" : 30
+        "timeLimit": 30
 
     },
     {
-        "question": "Pair this please 3",
-        "answers": [ "Rabbit", "Rice", "Monkey", "Bread", "Tomato", "Oil" ],
+        "question": "Szorzótábla #2",
+        "answers": [ "4*7", "6*6", "4*4", "5*9", "2*7", "8*3" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "Nyúl", "Rizs", "Majom", "Kenyér", "Paradicsom", "Olaj" ],
-        "answerLanguage": "en-GB",
+        "answerPairs": [ "28", "36", "16", "45", "14", "24" ],
+        "answerLanguage": "quiet",
         "pairLanguage": "quiet",
-        "timeLimit" : 30
+        "timeLimit": 30
 
     }
 

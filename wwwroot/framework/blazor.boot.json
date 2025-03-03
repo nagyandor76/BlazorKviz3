@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorKviz3",
   "resources": {
-    "hash": "sha256-Q48SXqjSpBfuxQvJ3QbPmBYu0POOl3GggEUK5+TvwgM=",
+    "hash": "sha256-luZ5B6A7j1LZIr45ARFmWpYLUCljzGob4uBBTkLAgkk=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "BlazorKviz3.wasm": "sha256-aGyK7mKCyPrYbEY3g8F3fmb7xY8mgSPXmBrbQFfd+SU=",
+      "BlazorKviz3.wasm": "sha256-5m2LygmCv305XqTAXXFqwnBsVp50/uHw+r7XG9Z/xZg=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-XPNKtl9hof+r16m4YBr6KXcWRIO4ybegOCoqW22WsWA=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-Ma6F4zYZU9u78Cq2JdEL0kZfdXSA8jtX9CD4JlRcZMA=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-JSzHP4QTqKJjC+zconarg/+ejei427atjm3T4LgjjjA=",
@@ -38,7 +38,7 @@
       "System.ComponentModel.wasm": "sha256-P2S+kD7qfT2MnIw584jLeOQv/mjAapOZrHTTLVjjLnA=",
       "System.Console.wasm": "sha256-YpjigD1j4i/XA324bWA7mrbUa6aWh5GnYT1d0h8D7Mg=",
       "System.Diagnostics.DiagnosticSource.wasm": "sha256-zI+U8yAU3f6xdOXM/s8P76y+FDgOVChkfdzp/tmrTes=",
-      "System.Linq.wasm": "sha256-/qycW2I1PK9CuWskClgcqjdDrUF/XtJ/Xd/5c1bNujo=",
+      "System.Linq.wasm": "sha256-bo/h3QOP7/HnUBcQr4grF8lz6D2nQOENh3M/F+SK8s0=",
       "System.Memory.wasm": "sha256-huFCeZesp5+FPHzvKrbfloYQjicXCMuAA6kMcwv88/k=",
       "System.Net.Http.Json.wasm": "sha256-7h7Sa9u+kXjWi+0EDcebxbAuDD4AAPT3Ykzl5RzRTds=",
       "System.Net.Http.wasm": "sha256-TDdoxaVlLVrFq/HfBZsO95geqN8MflhF9leK4VdQlUM=",

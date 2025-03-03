@@ -1,0 +1,64 @@
+[
+    {
+        "question": "Szorzótábla #1",
+        "answers": [ "2*2", "6*7", "5*8", "7*9", "3*4", "10*5" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "4", "42", "50", "63", "12", "50" ],
+        "answerLanguage": "quiet",
+        "pairLanguage": "quiet",
+        "timeLimit": 20
+
+    },
+    {
+        "question": "Szorzótábla #2",
+        "answers": [ "10*7", "8*4", "6*4", "5*7", "9*6", "3*9" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "70", "32", "24", "35", "54", "27" ],
+        "answerLanguage": "quiet",
+        "pairLanguage": "quiet",
+        "timeLimit": 20
+
+    },
+    {
+        "question": "Szorzótábla #3",
+        "answers": [ "5*4", "8*6", "2*6", "5*9", "2*7", "8*3" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "20", "48", "12", "45", "14", "24" ],
+        "answerLanguage": "quiet",
+        "pairLanguage": "quiet",
+        "timeLimit": 20
+
+    },
+    {
+        "question": "Szorzótábla #4",
+        "answers": [ "5*6", "3*6", "4*9", "4*10", "3*7", "8*5" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "30", "18", "36", "40", "21", "40" ],
+        "answerLanguage": "quiet",
+        "pairLanguage": "quiet",
+        "timeLimit": 20
+
+    },
+    {
+        "question": "Szorzótábla #5",
+        "answers": [ "4*7", "6*6", "10*6", "7*2", "9*7", "6*8" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "28", "36", "60", "14", "35", "48" ],
+        "answerLanguage": "quiet",
+        "pairLanguage": "quiet",
+        "timeLimit": 20
+
+    },
+    {
+        "question": "Szorzótábla #5",
+        "answers": [ "9*4", "5*5", "6*9", "4*8", "6*5", "7*7" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "36", "25", "54", "32", "30", "49" ],
+        "answerLanguage": "quiet",
+        "pairLanguage": "quiet",
+        "timeLimit": 20
+
+    }
+
+
+]
