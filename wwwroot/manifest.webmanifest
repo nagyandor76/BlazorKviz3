@@ -1,6 +1,6 @@
 {
-  "name": "Vandingo",
-  "short_name": "Vandingo",
+  "name": "BlazorKviz3",
+  "short_name": "BlazorKviz3",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
