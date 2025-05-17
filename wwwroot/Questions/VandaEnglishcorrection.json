@@ -1,0 +1,82 @@
+[
+
+    {
+        "question": "Pair this please 1",
+        "answers": [ "Bag", "Hairbrush", "Pen", "Shoes"],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Táska", "Hajkefe", "Toll", "Cipő" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+    },
+    {
+        "question": "Pair this please 2",
+        "answers": [ "Pink", "Chair", "Table", "Clock" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Rózsaszín", "Szék", "Asztal", "Óra" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+
+    },
+    {
+        "question": "Pair this please 3",
+        "answers": [ "T-shirt", "Towel", "Train", "Red", "Green" ],
+        "correctAnswer": "pair",
+        "answerPairs": [  "Póló", "Törölköző", "Vonat", "Piros", "Zöld" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+    },
+    {
+        "question": "Pair this please 4",
+        "answers": [ "White", "Chair", "Table", "Clock" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Fehér", "Szék", "Asztal", "Óra" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+
+    },
+    {
+        "question": "Pair this please 5",
+        "answers": [ "Blue", "Orange", "Yellow", "Pink", "Black" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Kék", "Narancssárga", "Járga", "Rózsaszín", "Fekete" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 25
+
+    },
+    {
+        "question": "Pair this please 6",
+        "answers": [ "1", "2", "3", "4", "5" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "1", "2", "3", "4", "5" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 25
+
+    },
+    {
+        "question": "Pair this please 7",
+        "answers": [ "1", "2", "3", "4", "5" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "1", "2", "3", "4", "5" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 25
+
+    },
+    {
+        "question": "Pair this please 8",
+        "answers": [ "1", "2", "3", "4", "5" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "1", "2", "3", "4", "5" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 25
+
+    },
+
+]
