@@ -7,7 +7,7 @@
         "answerPairs": [ "Táska", "Hajkefe", "Toll", "Cipő" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 25
+        "timeLimit": 30
     },
     {
         "question": "Pair this please 2",
@@ -16,7 +16,7 @@
         "answerPairs": [ "Rózsaszín", "Szék", "Asztal", "Óra" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 25
+        "timeLimit": 30
 
     },
     {
@@ -26,7 +26,7 @@
         "answerPairs": [  "Póló", "Törölköző", "Vonat", "Piros", "Zöld" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 25
+        "timeLimit": 30
     },
     {
         "question": "Pair this please 4",
@@ -35,7 +35,7 @@
         "answerPairs": [ "Fehér", "Szék", "Asztal", "Óra" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 25
+        "timeLimit": 30
 
     },
     {
@@ -50,9 +50,9 @@
     },
     {
         "question": "Pair this please 6",
-        "answers": [ "Nose", "Eyes", "Shoulders", "Mouth", "Face" ],
+        "answers": [ "1", "2", "3", "4", "5" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "Orr", "Szemek", "Vállak", "Száj", "Arc" ],
+        "answerPairs": [ "1", "2", "3", "4", "5" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
         "timeLimit": 25
@@ -60,9 +60,19 @@
     },
     {
         "question": "Pair this please 7",
-        "answers": [ "Ears", "Eyes", "Hair", "Tongue", "Face" ],
+        "answers": [ "1", "2", "3", "4", "5" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "Fülek", "Szemek", "Haj", "Nyelv", "Arc" ],
+        "answerPairs": [ "1", "2", "3", "4", "5" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 25
+
+    },
+    {
+        "question": "Pair this please 8",
+        "answers": [ "1", "2", "3", "4", "5" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "1", "2", "3", "4", "5" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
         "timeLimit": 25
