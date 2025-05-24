@@ -23,5 +23,23 @@
         "correctAnswer": "10100",
         "answerLanguage": "quiet",
         "timeLimit": 20
+    },
+    {
+        "question": "Prefixumok",
+        "answers": [ "kilo", "deka", "hektó", "deci", "centi"],
+        "correctAnswer": "pair",
+        "answerPairs": [ "*1000", "*10", "*100", ":10", ":100" ],
+        "answerLanguage": "quiet",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+    },
+    {
+        "question": "Prefixumok 2",
+        "answers": [ "kilo", "deka", "mili", "deci", "centi"],
+        "correctAnswer": "pair",
+        "answerPairs": [ "*1000", "*10", ":1000", ":10", ":100" ],
+        "answerLanguage": "quiet",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
     }
 ]
