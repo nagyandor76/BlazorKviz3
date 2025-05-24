@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorKviz3",
   "resources": {
-    "hash": "sha256-luZ5B6A7j1LZIr45ARFmWpYLUCljzGob4uBBTkLAgkk=",
+    "hash": "sha256-g7z/qUwx5giOK+KIcA/S13KA91NKjlUwGQrLGAw0Dv4=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-B6DNRvFeCUi3jbx9uKpuj+hV9cN0KG4RdZj1FgBZwj8="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "BlazorKviz3.wasm": "sha256-5m2LygmCv305XqTAXXFqwnBsVp50/uHw+r7XG9Z/xZg=",
+      "BlazorKviz3.wasm": "sha256-WeQwjdtkOGl1na+o5mwDw6A8AIzBMWwL1CT6pxJYFh4=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-XPNKtl9hof+r16m4YBr6KXcWRIO4ybegOCoqW22WsWA=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-Ma6F4zYZU9u78Cq2JdEL0kZfdXSA8jtX9CD4JlRcZMA=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-JSzHP4QTqKJjC+zconarg/+ejei427atjm3T4LgjjjA=",

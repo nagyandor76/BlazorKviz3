@@ -1,0 +1,45 @@
+[
+
+    {
+        "question": "Szeretem a sajtot = I Like ______",
+        "answers": [ "Cheese" ],
+        "correctAnswer": "Cheese",
+        "answerLanguage": "en-GB",
+        "timeLimit": 20
+    },
+    {
+        "question": "Arc",
+        "answers": [ "Face" ],
+        "correctAnswer": "Face",
+        "answerLanguage": "en-GB",
+        "timeLimit": 20
+    },
+    {
+        "question": "Szereted a levest? = Do you like ____ ?",
+        "answers": [ "Soup" ],
+        "correctAnswer": "Face",
+        "answerLanguage": "en-GB",
+        "timeLimit": 20
+    },
+    {
+        "question": "Nem szeretem a joghurtot = I don't like _______!'",
+        "answers": [ "Yoghurt" ],
+        "correctAnswer": "Yoghurt",
+        "answerLanguage": "en-GB",
+        "timeLimit": 20
+    },
+    {
+        "question": "Szőke = _____",
+        "answers": [ "Blond" ],
+        "correctAnswer": "Blond",
+        "answerLanguage": "en-GB",
+        "timeLimit": 20
+    },
+    {
+        "question": "Sárga = ______",
+        "answers": [ "Yellow" ],
+        "correctAnswer": "Yellow",
+        "answerLanguage": "en-GB",
+        "timeLimit": 20
+    }
+]
