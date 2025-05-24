@@ -42,7 +42,7 @@
         "question": "Pair this please 5",
         "answers": [ "Blue", "Orange", "Yellow", "Pink", "Black" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "Kék", "Narancssárga", "Járga", "Rózsaszín", "Fekete" ],
+        "answerPairs": [ "Kék", "Narancssárga", "Sárga", "Rózsaszín", "Fekete" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
         "timeLimit": 25

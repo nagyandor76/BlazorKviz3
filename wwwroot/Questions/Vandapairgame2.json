@@ -2,31 +2,91 @@
 
     {
         "question": "Pair this please",
-        "answers": [ "Bag", "Hairbrush", "Pen", "Shoes", "T-shirt", "Towel", "Train" ],
+        "answers": [ "Book", "Jumper", "Pencil", "Car", "Hat", "Cake", "Socks" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "Táska", "Hajkefe", "Toll", "Cipő", "Póló", "Törölköző", "Vonat" ],
+        "answerPairs": [ "Könyv", "Pullóver", "Ceruza", "Autó", "Sapka", "Sütemény", "Zokni" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
         "timeLimit": 30
     },
     {
         "question": "Pair this please 2",
-        "answers": [ "Pink", "Chair", "Table", "Clock", "Red", "Green" ],
+        "answers": [ "Pen", "Bag", "Toothbrush", "T-Shirt", "Hairbrush", "Guitar", "Baloon" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "Rózsaszín", "Szék", "Asztal", "Óra", "Piros", "Zöld" ],
+        "answerPairs": [ "Toll", "Táska", "Fogkefe", "Póló", "Hajkefe", "Gitár", "Lifi" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
         "timeLimit": 30
 
     },
     {
-        "question": "Pair this please 2",
-        "answers": [ "Blue", "Orange", "Yellow", "Pink", "Black", "White" ],
+        "question": "Pair this please 3",
+        "answers": [ "Towel", "Pencilcase", "Dog", "Train", "Shoes", "Cat", "Dad", "Mum" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "Kék", "Narancssárga", "Járga", "Rózsaszín", "Fekete", "Fehér" ],
+        "answerPairs": [ "Törülkötő", "Narancssárga", "Járga", "Rózsaszín", "Fekete", "Fehér" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
         "timeLimit": 25
 
+    },
+    {
+        "question": "Pair this please 4",
+        "answers": [ "Chair", "Table", "Pen", "Teacher", "Book", "Clock", "Loud", "Quiet" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Szék", "Asztal", "Toll", "Tanár", "Könyv", "Óra", "Hangos", "Csendes" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+    },
+    {
+        "question": "Pair Colors",
+        "answers": [ "Red", "Orange", "Blue", "Pink", "Yellow", "Green", "Black" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Piros", "Narancssárga", "Kék", "Rózsaszín", "Sárga", "Zöld", "Fekete" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+
+    },
+    {
+        "question": "Pair this please 6",
+        "answers": [ "Listen", "Fast", "Slow", "Fish", "Cheese", "Yoghurt", "Bread", "Rice", "Pasta" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Hallgat", "Gyors", "Lassú", "Hal", "Sajt", "Joghurt", "Kenyér", "Rizs", "Tészta" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+
+    },
+    {
+        "question": "Pair this please 7",
+        "answers": [ "Tiger", "Monkey", "Zebra", "Crocodile", "Lion", "See", "Run", "Climb trees", "Fly" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Tigris", "Majom", "Zebra", "Krokodil", "Oroszlán", "Lát", "Fut", "Fára mászik", "Repül" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+
+    },
+    {
+        "question": "Pair this please 8",
+        "answers": [ "Goodbye", "Your turn", "Look", "Can You see?", "Fields", "Wheat", "Cakes", "Cow", "Milk" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Viszlát", "Te következel", "Nézd", "Látod?", "Mezők", "Búza", "Sütik", "Tehén", "Tej" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+
+    },
+    {
+        "question": "Pair this please 9",
+        "answers": [ "Butter", "Ice cream", "Brown", "Black", "Blond", "Soup", "And", "Thank You", "Face" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Vaj", "Jégkérm", "Barna", "Fekete", "Szőke", "Leves", "És", "Közönöm", "Arc" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+
     }
+
 ]
