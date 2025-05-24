@@ -60,9 +60,9 @@
     },
     {
         "question": "Pair this please 7",
-        "answers": [ "Ears", "Eyes", "Hair", "Tongue", "Face" ],
+        "answers": [ "Ears", "Eyes", "Hair", "Tongue", "Face", "Hands" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "Fülek", "Szemek", "Haj", "Nyelv", "Arc" ],
+        "answerPairs": [ "Fülek", "Szemek", "Haj", "Nyelv", "Arc", "Kezek" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
         "timeLimit": 25

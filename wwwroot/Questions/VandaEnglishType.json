@@ -8,7 +8,7 @@
         "timeLimit": 20
     },
     {
-        "question": "Arc",
+        "question": "Arc = ____?",
         "answers": [ "Face" ],
         "correctAnswer": "Face",
         "answerLanguage": "en-GB",
@@ -17,7 +17,7 @@
     {
         "question": "Szereted a levest? = Do you like ____ ?",
         "answers": [ "Soup" ],
-        "correctAnswer": "Face",
+        "correctAnswer": "Soup",
         "answerLanguage": "en-GB",
         "timeLimit": 20
     },
@@ -39,6 +39,56 @@
         "question": "Sárga = ______",
         "answers": [ "Yellow" ],
         "correctAnswer": "Yellow",
+        "answerLanguage": "en-GB",
+        "timeLimit": 20
+    },
+    {
+        "question": "Fekete = _____",
+        "answers": [ "Black" ],
+        "correctAnswer": "Black",
+        "answerLanguage": "en-GB",
+        "timeLimit": 20
+    },
+    {
+        "question": "Zöld = ______",
+        "answers": [ "" ],
+        "correctAnswer": "Green",
+        "answerLanguage": "en-GB",
+        "timeLimit": 20
+    },
+    {
+        "question": "I see with my ____!'",
+        "answers": [ "" ],
+        "correctAnswer": "Eyes",
+        "answerLanguage": "en-GB",
+        "timeLimit": 20
+    },
+    {
+        "question": "I hear with my ____",
+        "answers": [ "" ],
+        "correctAnswer": "Ears",
+        "answerLanguage": "en-GB",
+        "timeLimit": 20
+    },
+    {
+        "question": "I taste with my _____",
+        "answers": [ "" ],
+        "correctAnswer": "Mouth",
+        "AlternateAnswers": [ "Tongue" ],
+        "answerLanguage": "en-GB",
+        "timeLimit": 20
+    },
+    {
+        "question": "I smell with my ____",
+        "answers": [ "" ],
+        "correctAnswer": "Nose",
+        "answerLanguage": "en-GB",
+        "timeLimit": 20
+    },
+    {
+        "question": "I touch with my _____",
+        "answers": [ "" ],
+        "correctAnswer": "Hands",
         "answerLanguage": "en-GB",
         "timeLimit": 20
     }

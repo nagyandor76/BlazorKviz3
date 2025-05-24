@@ -87,6 +87,16 @@
         "pairLanguage": "quiet",
         "timeLimit": 30
 
+    },
+    {
+        "question": "Pair this please 10",
+        "answers": [ "Kitchen", "Bedroom", "Bathroom", "Sitting room", "Hall", "Garden", "Trainers", "Sunhat", "Dress" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Konyha", "Hálószoba", "Fürdőszoba", "Nappali", "Előszoba", "Kert", "Tornacipő", "Kalap", "Ruha" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+
     }
 
 ]

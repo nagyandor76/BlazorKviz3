@@ -1,5 +1,12 @@
 [
     {
+        "question": "Három válasz a jó: Janka, Jankuska és Jankus",
+        "answers": [ ""],
+        "correctAnswer": "Janka",
+        "AlternateAnswers": [ "Jankus", "Jankuska" ]
+    },
+
+    {
         "question": "What is the capital of Hungary?",
         "answers": [ "Paris", "London", "Rome", "Budapest", "Berlin" ],
         "correctAnswer": "Budapest"
@@ -26,7 +33,7 @@
     },
     {
         "question": "What is 2*2?",
-        "answers": ["4"],
+        "answers": [ "4" ],
         "correctAnswer": "4"
     },
     {
