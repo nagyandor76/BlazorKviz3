@@ -1,0 +1,27 @@
+[
+
+    {
+        "question": "Tömegmérték 1.",
+        "answers": [ "1 tonna", "2000 g", "20 dkg", "100 dkg"],
+        "correctAnswer": "pair",
+        "answerPairs": [ "1000 kg", "2 kg", "200 g", "1000 g" ],
+        "answerLanguage": "quiet",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+    },
+    {
+        "question": "1 tonna 10 kg= ?",
+        "answers": [ "1010 kg", "110 kg","10100 g", "10100 dkg",  "10010 kg", "1000 kg","1000 kg 100 dkg" ],
+        "correctAnswer": "1010 kg",
+        "answerLanguage": "quiet",
+        "timeLimit": 20
+
+    },
+    {
+        "question": "1010 dkg = ? g",
+        "answers": ["10100"],
+        "correctAnswer": "10100",
+        "answerLanguage": "quiet",
+        "timeLimit": 20
+    }
+]
