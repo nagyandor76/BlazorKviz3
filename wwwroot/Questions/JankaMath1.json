@@ -14,7 +14,7 @@
         "answers": [ "1010 kg", "110 kg","10100 g", "10100 dkg",  "10010 kg", "1000 kg","1000 kg 100 dkg" ],
         "correctAnswer": "1010 kg",
         "answerLanguage": "quiet",
-        "timeLimit": 20
+        "timeLimit": 40
 
     },
     {
@@ -22,14 +22,14 @@
         "answers": ["10100"],
         "correctAnswer": "10100",
         "answerLanguage": "quiet",
-        "timeLimit": 20
+        "timeLimit": 30
     },
     {
         "question": "10 dkg + 1000 g = ? g",
         "answers": [ "1100"],
         "correctAnswer": "1010",
         "answerLanguage": "quiet",
-        "timeLimit": 20
+        "timeLimit": 40
     },
     {
         "question": "Prefixumok",
@@ -50,52 +50,62 @@
         "timeLimit": 30
     },
     {
-        "question": "Térfogat",
+        "question": "Térfogat 1 ",
         "answers": [ "10 hl", "100 ml", "1000 ml", "10 l"],
         "correctAnswer": "pair",
         "answerPairs": [ "1000 l", "10 cl", "10 dl", "100 dl" ],
         "answerLanguage": "quiet",
         "pairLanguage": "quiet",
-        "timeLimit": 30
+        "timeLimit": 50
     }
     ,
     {
-        "question": "Térfogat",
+        "question": "Térfogat 2 " ,
         "answers": [ "10 ml", "10 cl", "10 dl", "100 l"],
         "correctAnswer": "pair",
         "answerPairs": [ "1 cl", "1 dl", "1 l", "1 hl" ],
         "answerLanguage": "quiet",
         "pairLanguage": "quiet",
-        "timeLimit": 30
+        "timeLimit": 50
     }
     ,
     {
-        "question": "Tömeg",
+        "question": "Tömeg 2",
         "answers": [ "10 g", "100 dkg", "1000 dkg", "1000 kg"],
         "correctAnswer": "pair",
-        "answerPairs": [ "1 dkd", "1 kg", "10 kg", "1 t" ],
+        "answerPairs": [ "1 dkg", "1 kg", "10 kg", "1 t" ],
         "answerLanguage": "quiet",
         "pairLanguage": "quiet",
-        "timeLimit": 30
+        "timeLimit": 50
     }
     ,
     {
-        "question": "Hossz",
+        "question": "Hossz 1",
         "answers": [ "10 mm", "10 cm", "110 cm", "1010 mm", "1000 mm", "1000 m"],
         "correctAnswer": "pair",
         "answerPairs": [ "1 cm", "1 dm", "1 m 1 dm", "1 m 1 cm", "1 m", "1 km" ],
         "answerLanguage": "quiet",
         "pairLanguage": "quiet",
-        "timeLimit": 30
+        "timeLimit": 50
     }
     ,
     {
-        "question": "Hossz",
-        "answers": [ "1000 cm", "22 dm", "100 cm", "22 cm + 80 mm", "30 dm", "30 mm", "500 m + 5000 dm"],
+        "question": "Hossz 2",
+        "answers": [ "1000 cm", "100 cm", "22 cm + 80 mm", "30 dm", "30 mm", "500 m + 5000 dm"],
         "correctAnswer": "pair",
-        "answerPairs": [ "10 m", "2 m 20 cm", "1 m", "3 dm", "3 m", "3 cm" , "1 km"],
+        "answerPairs": [ "10 m", "1 m", "3 dm", "3 m", "3 cm" , "1 km"],
         "answerLanguage": "quiet",
         "pairLanguage": "quiet",
-        "timeLimit": 30
+        "timeLimit": 60
+    }
+    ,
+    {
+        "question": "Hossz 3",
+        "answers": [ "10 mm", "10 cm", "10 dm", "1000 m", "100 dm", "500 dm + 500 dm"],
+        "correctAnswer": "pair",
+        "answerPairs": [ "1 cm", "1 dm", "1 m", "1 km", "10 m" , "100 m"],
+        "answerLanguage": "quiet",
+        "pairLanguage": "quiet",
+        "timeLimit": 60
     }
 ]
