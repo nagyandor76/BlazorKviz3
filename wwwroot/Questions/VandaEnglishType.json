@@ -5,7 +5,7 @@
         "answers": [ "Cheese" ],
         "correctAnswer": "Cheese",
         "answerLanguage": "en-GB",
-        "timeLimit": 20
+        "timeLimit": 30
     },
     {
         "question": "Arc = ____?",
@@ -19,14 +19,14 @@
         "answers": [ "Soup" ],
         "correctAnswer": "Soup",
         "answerLanguage": "en-GB",
-        "timeLimit": 20
+        "timeLimit": 30
     },
     {
         "question": "Nem szeretem a joghurtot = I don't like _______!'",
         "answers": [ "Yoghurt" ],
         "correctAnswer": "Yoghurt",
         "answerLanguage": "en-GB",
-        "timeLimit": 20
+        "timeLimit": 30
     },
     {
         "question": "Szőke = _____",
@@ -61,14 +61,14 @@
         "answers": [ "" ],
         "correctAnswer": "Eyes",
         "answerLanguage": "en-GB",
-        "timeLimit": 20
+        "timeLimit": 30
     },
     {
         "question": "I hear with my ____",
         "answers": [ "" ],
         "correctAnswer": "Ears",
         "answerLanguage": "en-GB",
-        "timeLimit": 20
+        "timeLimit": 30
     },
     {
         "question": "I taste with my _____",
@@ -76,20 +76,48 @@
         "correctAnswer": "Mouth",
         "AlternateAnswers": [ "Tongue" ],
         "answerLanguage": "en-GB",
-        "timeLimit": 20
+        "timeLimit": 30
     },
     {
         "question": "I smell with my ____",
         "answers": [ "" ],
         "correctAnswer": "Nose",
         "answerLanguage": "en-GB",
-        "timeLimit": 20
+        "timeLimit": 30
     },
     {
         "question": "I touch with my _____",
         "answers": [ "" ],
         "correctAnswer": "Hands",
         "answerLanguage": "en-GB",
+        "timeLimit": 30
+    },
+        {
+        "question": "Száj = ______",
+        "answers": [ " " ],
+        "correctAnswer": "Mouth",
+        "answerLanguage": "en-GB",
         "timeLimit": 20
-    }
+    },
+        {
+        "question": "Szemek = ______",
+        "answers": [ " " ],
+        "correctAnswer": "Eyes",
+        "answerLanguage": "en-GB",
+        "timeLimit": 20
+    },
+        {
+        "question": "Szőke = ______",
+        "answers": [ " " ],
+        "correctAnswer": "Blond",
+        "answerLanguage": "en-GB",
+        "timeLimit": 20
+    },
+        {
+        "question": "Kezek = ______",
+        "answers": [ " " ],
+        "correctAnswer": "Hands",
+        "answerLanguage": "en-GB",
+        "timeLimit": 20
+    },
 ]

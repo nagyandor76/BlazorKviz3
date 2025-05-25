@@ -1,12 +1,22 @@
 [
     {
-        "question": "Szorzótábla #1",
-        "answers": [ "2*2", "6*7", "5*8", "7*9", "3*4", "10*5" ],
+        "question": "Pair this please 8",
+        "answers": [ "Goodbye", "Your turn", "Look", "Can You see?", "Fields", "Wheat", "Cakes", "Cow", "Milk" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "4", "42", "50", "63", "12", "50" ],
-        "answerLanguage": "quiet",
+        "answerPairs": [ "Viszlát", "Te következel", "Nézd", "Látod?", "Mezők", "Búza", "Sütik", "Tehén", "Tej" ],
+        "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 30
+        "timeLimit": 45
+
+    },
+    {
+        "question": "Pair this please 6",
+        "answers": [ "Listen", "Fast", "Slow", "Fish", "Cheese", "Yoghurt", "Bread", "Rice" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Hallgat", "Gyors", "Lassú", "Hal", "Sajt", "Joghurt", "Kenyér", "Rizs" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45
 
     },
     {
