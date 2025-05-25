@@ -58,4 +58,44 @@
         "pairLanguage": "quiet",
         "timeLimit": 30
     }
+    ,
+    {
+        "question": "Térfogat",
+        "answers": [ "10 ml", "10 cl", "10 dl", "100 l"],
+        "correctAnswer": "pair",
+        "answerPairs": [ "1 cl", "1 dl", "1 l", "1 hl" ],
+        "answerLanguage": "quiet",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+    }
+    ,
+    {
+        "question": "Tömeg",
+        "answers": [ "10 g", "100 dkg", "1000 dkg", "1000 kg"],
+        "correctAnswer": "pair",
+        "answerPairs": [ "1 dkd", "1 kg", "10 kg", "1 t" ],
+        "answerLanguage": "quiet",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+    }
+    ,
+    {
+        "question": "Hossz",
+        "answers": [ "10 mm", "10 cm", "110 cm", "1010 mm", "1000 mm", "1000 m"],
+        "correctAnswer": "pair",
+        "answerPairs": [ "1 cm", "1 dm", "1 m 1 dm", "1 m 1 cm", "1 m", "1 km" ],
+        "answerLanguage": "quiet",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+    }
+    ,
+    {
+        "question": "Hossz",
+        "answers": [ "1000 cm", "22 dm", "100 cm", "22 cm + 80 mm", "30 dm", "30 mm", "500 m + 5000 dm"],
+        "correctAnswer": "pair",
+        "answerPairs": [ "10 m", "2 m 20 cm", "1 m", "3 dm", "3 m", "3 cm" , "1 km"],
+        "answerLanguage": "quiet",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+    }
 ]

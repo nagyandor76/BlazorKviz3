@@ -1,7 +1,7 @@
 [
 
     {
-        "question": "Pair this please",
+        "question": "Pair this please 1",
         "answers": [ "Book", "Jumper", "Pencil", "Car", "Hat", "Cake", "Socks" ],
         "correctAnswer": "pair",
         "answerPairs": [ "Könyv", "Pullóver", "Ceruza", "Autó", "Sapka", "Sütemény", "Zokni" ],
@@ -13,7 +13,7 @@
         "question": "Pair this please 2",
         "answers": [ "Pen", "Bag", "Toothbrush", "T-Shirt", "Hairbrush", "Guitar", "Baloon" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "Toll", "Táska", "Fogkefe", "Póló", "Hajkefe", "Gitár", "Lifi" ],
+        "answerPairs": [ "Toll", "Táska", "Fogkefe", "Póló", "Hajkefe", "Gitár", "Lufi" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
         "timeLimit": 30
@@ -39,7 +39,7 @@
         "timeLimit": 30
     },
     {
-        "question": "Pair Colors",
+        "question": "Pair colors",
         "answers": [ "Red", "Orange", "Blue", "Pink", "Yellow", "Green", "Black" ],
         "correctAnswer": "pair",
         "answerPairs": [ "Piros", "Narancssárga", "Kék", "Rózsaszín", "Sárga", "Zöld", "Fekete" ],
