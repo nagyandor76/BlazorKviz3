@@ -43,9 +43,9 @@
         "timeLimit": 20
     },
     {
-        "question": "Fekete = _____",
-        "answers": [ "Black" ],
-        "correctAnswer": "Black",
+        "question": "Kék = _____",
+        "answers": [ " " ],
+        "correctAnswer": "Blue",
         "answerLanguage": "en-GB",
         "timeLimit": 20
     },
@@ -119,5 +119,5 @@
         "correctAnswer": "Hands",
         "answerLanguage": "en-GB",
         "timeLimit": 20
-    },
+    }
 ]
