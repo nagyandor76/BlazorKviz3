@@ -44,7 +44,7 @@
     },
     {
         "question": "Kék = _____",
-        "answers": [ " " ],
+        "answers": [ "Blue" ],
         "correctAnswer": "Blue",
         "answerLanguage": "en-GB",
         "timeLimit": 20
@@ -92,28 +92,28 @@
         "answerLanguage": "en-GB",
         "timeLimit": 30
     },
-        {
+    {
         "question": "Száj = ______",
         "answers": [ " " ],
         "correctAnswer": "Mouth",
         "answerLanguage": "en-GB",
         "timeLimit": 20
     },
-        {
+    {
         "question": "Szemek = ______",
         "answers": [ " " ],
         "correctAnswer": "Eyes",
         "answerLanguage": "en-GB",
         "timeLimit": 20
     },
-        {
+    {
         "question": "Szőke = ______",
         "answers": [ " " ],
         "correctAnswer": "Blond",
         "answerLanguage": "en-GB",
         "timeLimit": 20
     },
-        {
+    {
         "question": "Kezek = ______",
         "answers": [ " " ],
         "correctAnswer": "Hands",
