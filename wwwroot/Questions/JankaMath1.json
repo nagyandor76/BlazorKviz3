@@ -25,6 +25,13 @@
         "timeLimit": 20
     },
     {
+        "question": "10 dkg + 1000 g = ? g",
+        "answers": [ "1100"],
+        "correctAnswer": "1010",
+        "answerLanguage": "quiet",
+        "timeLimit": 20
+    },
+    {
         "question": "Prefixumok",
         "answers": [ "kilo", "deka", "hektó", "deci", "centi"],
         "correctAnswer": "pair",
@@ -38,6 +45,15 @@
         "answers": [ "kilo", "deka", "mili", "deci", "centi"],
         "correctAnswer": "pair",
         "answerPairs": [ "*1000", "*10", ":1000", ":10", ":100" ],
+        "answerLanguage": "quiet",
+        "pairLanguage": "quiet",
+        "timeLimit": 30
+    },
+    {
+        "question": "Térfogat",
+        "answers": [ "10 hl", "100 ml", "1000 ml", "10 l"],
+        "correctAnswer": "pair",
+        "answerPairs": [ "1000 l", "10 cl", "10 dl", "100 dl" ],
         "answerLanguage": "quiet",
         "pairLanguage": "quiet",
         "timeLimit": 30

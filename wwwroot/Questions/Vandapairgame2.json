@@ -23,10 +23,10 @@
         "question": "Pair this please 3",
         "answers": [ "Towel", "Pencilcase", "Dog", "Train", "Shoes", "Cat", "Dad", "Mum" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "Törülkötő", "Narancssárga", "Járga", "Rózsaszín", "Fekete", "Fehér" ],
+        "answerPairs": [ "Törülkötő", "Tolltartó", "Kutya", "Cipők", "Macska", "Apa", "Anya" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 25
+        "timeLimit": 30
 
     },
     {
@@ -55,7 +55,7 @@
         "answerPairs": [ "Hallgat", "Gyors", "Lassú", "Hal", "Sajt", "Joghurt", "Kenyér", "Rizs", "Tészta" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 30
+        "timeLimit": 45
 
     },
     {
@@ -65,7 +65,7 @@
         "answerPairs": [ "Tigris", "Majom", "Zebra", "Krokodil", "Oroszlán", "Lát", "Fut", "Fára mászik", "Repül" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 30
+        "timeLimit": 45
 
     },
     {
@@ -75,7 +75,7 @@
         "answerPairs": [ "Viszlát", "Te következel", "Nézd", "Látod?", "Mezők", "Búza", "Sütik", "Tehén", "Tej" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 30
+        "timeLimit": 45
 
     },
     {
@@ -85,7 +85,7 @@
         "answerPairs": [ "Vaj", "Jégkérm", "Barna", "Fekete", "Szőke", "Leves", "És", "Közönöm", "Arc" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 30
+        "timeLimit": 45
 
     },
     {
@@ -95,7 +95,7 @@
         "answerPairs": [ "Konyha", "Hálószoba", "Fürdőszoba", "Nappali", "Előszoba", "Kert", "Tornacipő", "Kalap", "Ruha" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 30
+        "timeLimit": 45
 
     }
 

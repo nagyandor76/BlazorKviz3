@@ -67,6 +67,25 @@
         "pairLanguage": "quiet",
         "timeLimit": 25
 
-    }
+    },
+    {
+        "question": "Pair this please 8",
+        "answers": [ "One", "Two", "Three", "Four", "Five", "Six" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "1", "2", "3", "4", "5", "6" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "en-GB",
+        "timeLimit": 25
 
+    },
+    {
+        "question": "Pair this please 8",
+        "answers": [ "Seven", "Eight", "Nine", "Ten", "Four", "Three" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "7", "8", "9", "10", "4", "3" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "en-GB",
+        "timeLimit": 25
+
+    }
 ]

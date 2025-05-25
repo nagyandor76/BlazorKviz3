@@ -3,7 +3,7 @@
         "question": "Szorzótábla #1",
         "answers": [ "2*2", "6*7", "5*8", "7*9", "3*4", "10*5" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "4", "42", "50", "63", "12", "50" ],
+        "answerPairs": [ "4", "42", "40", "63", "12", "50" ],
         "answerLanguage": "quiet",
         "pairLanguage": "quiet",
         "timeLimit": 20
@@ -43,7 +43,7 @@
         "question": "Szorzótábla #5",
         "answers": [ "4*7", "6*6", "10*6", "7*2", "9*7", "6*8" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "28", "36", "60", "14", "35", "48" ],
+        "answerPairs": [ "28", "36", "60", "14", "63", "48" ],
         "answerLanguage": "quiet",
         "pairLanguage": "quiet",
         "timeLimit": 20
