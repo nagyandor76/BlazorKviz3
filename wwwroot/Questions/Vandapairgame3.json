@@ -108,5 +108,16 @@
         "timeLimit": 60
 
     }
+    ,
+    {
+        "question": "Pair this please 12",
+        "answers": [ "left", "right", "bathroom", "sitting room", "shorts", "sandals", "trainers"],
+        "correctAnswer": "pair",
+        "answerPairs": [ "bal", "jobb", "fürdőszoba", "nappali", "rövidnadrág", "szandálok", "tornacipő" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 60
+
+    }
 
 ]
