@@ -1,0 +1,112 @@
+[
+
+    {
+        "question": "Pair this please 1",
+        "answers": [ "book", "jumper", "pencil", "car", "hat", "cake", "socks" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "könyv", "pullóver", "ceruza", "autó", "sapka", "sütemény", "zokni" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45
+    },
+    {
+        "question": "Pair this please 2",
+        "answers": [ "pen", "bag", "toothbrush", "T-Shirt", "hairbrush", "guitar", "baloon" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "toll", "táska", "fogkefe", "póló", "hajkefe", "gitár", "lufi" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45
+
+    },
+    {
+        "question": "Pair this please 3",
+        "answers": [ "towel", "pencilcase", "dog", "train", "shoes", "cat", "Dad", "Mum" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "törölköző", "tolltartó", "kutya", "vonat", "cipők", "macska", "apa", "anya" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45
+
+    },
+    {
+        "question": "Pair this please 4",
+        "answers": [ "chair", "table", "pen", "teacher", "book", "clock", "loud", "quiet" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "szék", "asztal", "toll", "tanár", "könyv", "óra", "hangos", "csendes" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45
+    },
+    {
+        "question": "Pair this please 5",
+        "answers": [ "listen", "fish", "cheese", "yoghurt", "bread", "rice", "see" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "hallgat", "hal", "sajt", "joghurt", "kenyér", "rizs", "lát" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45
+
+    },
+    {
+        "question": "Pair this please 6",
+        "answers": [ "rice", "pasta", "fields", "cow", "milk", "run", "climb trees" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "rizs", "tészta", "mezők", "tehén", "tej", "fut", "fára mászik" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45
+
+    },
+    {
+        "question": "Pair this please 7",
+        "answers": [ "ice cream", "Goodbye !", "look", "cow", "milk", "fly", "sunhat", "pasta" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "jégkrém", "Viszont látásra !", "nézd", "tehén", "tej", "repül", "kalap", "tészta" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 60
+
+    },
+    {
+        "question": "Pair this please 8",
+        "answers": [ "I like",  "Do You like?", "taste", "touch", "smell", "hear", "kezek" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Szeretem",  "Szereted?", "ízlel", "érint", "szagol", "hall", "hands" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45
+
+    },
+    {
+        "question": "Pair this please 8",
+        "answers": [ "I hear",  "I don't hear.", "with my eyes", "with my nose", "I see", "I don't like", "kezek" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Hallom",  "Nem hallom.", "szememmel", "orrommal", "látom", "nem szeretem", "hands" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45
+
+    },
+    {
+        "question": "Pair this please 10",
+        "answers": [ "butter",  "I see", "mouth", "see", "soup", "and", "thank you", "face" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "vaj",  "látom", "száj", "lát", "leves", "és", "közönöm", "arc" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45
+
+    },
+    {
+        "question": "Pair this please 11",
+        "answers": [ "kitchen", "bedroom", "bathroom", "sitting room", "hall", "garden", "trainers", "dress" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "konyha", "hálószoba", "fürdőszoba", "nappali", "előszoba", "kert", "tornacipő", "ruha" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 60
+
+    }
+
+]

@@ -1,43 +1,45 @@
 [
     {
-        "question": "Pair this please 8",
-        "answers": [ "Goodbye", "Your turn", "Look", "Can You see?", "Fields", "Wheat", "Cakes", "Cow", "Milk" ],
-        "correctAnswer": "pair",
-        "answerPairs": [ "Viszlát", "Te következel", "Nézd", "Látod?", "Mezők", "Búza", "Sütik", "Tehén", "Tej" ],
+        "question": "I Like ______ !(sajtot)",
+        "answers": [ "Cheese", "Chise", "Choise", "Chese" ],
+        "correctAnswer": "Cheese",
         "answerLanguage": "en-GB",
-        "pairLanguage": "quiet",
-        "timeLimit": 45
-
+        "timeLimit": 30
     },
     {
-        "question": "Pair this please 6",
-        "answers": [ "Listen", "Fast", "Slow", "Fish", "Cheese", "Yoghurt", "Bread", "Rice" ],
-        "correctAnswer": "pair",
-        "answerPairs": [ "Hallgat", "Gyors", "Lassú", "Hal", "Sajt", "Joghurt", "Kenyér", "Rizs" ],
+        "question": "Do you like ______? (levest)",
+        "answers": [ "Sup", "Soup", "Supp", "Seup", "Soupe" ],
+        "correctAnswer": "Soup",
         "answerLanguage": "en-GB",
-        "pairLanguage": "quiet",
-        "timeLimit": 45
-
+        "timeLimit": 30
     },
     {
-        "question": "Szorzótábla #2",
-        "answers": [ "10*7", "8*4", "6*4", "5*7", "9*6", "3*9" ],
-        "correctAnswer": "pair",
-        "answerPairs": [ "70", "32", "24", "35", "54", "27" ],
-        "answerLanguage": "quiet",
-        "pairLanguage": "quiet",
+        "question": "Arc = ____?",
+        "answers": [ "Fész", "Faice", "Face", "Fice", "Fece" ],
+        "correctAnswer": "Face",
+        "answerLanguage": "en-GB",
         "timeLimit": 30
-
     },
     {
-        "question": "Szorzótábla #2",
-        "answers": [ "4*7", "6*6", "4*4", "5*9", "2*7", "8*3" ],
-        "correctAnswer": "pair",
-        "answerPairs": [ "28", "36", "16", "45", "14", "24" ],
-        "answerLanguage": "quiet",
-        "pairLanguage": "quiet",
+        "question": "Zöld = ______",
+        "answers": [ "Gueen", "Grean", "Goren", "Green", "Grean" ],
+        "correctAnswer": "Green",
+        "answerLanguage": "en-GB",
         "timeLimit": 30
-
+    },
+    {
+        "question": "Rizs = ____?",
+        "answers": [ "Rise", "Ricee", "Reise", "Reice", "Rice" ],
+        "correctAnswer": "Rice",
+        "answerLanguage": "en-GB",
+        "timeLimit": 30
+    },
+    {
+        "question": "Konyha = ______",
+        "answers": [ "Kitchen", "Kitcen", "Kitten", "Ketcen", "Katchen" ],
+        "correctAnswer": "Kitchen",
+        "answerLanguage": "en-GB",
+        "timeLimit": 30
     }
 
 
