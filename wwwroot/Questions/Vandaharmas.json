@@ -33,6 +33,29 @@
 
     },
     {
+        "question": "Pair Colors",
+        "answers": [ "orange", "red", "blue", "pink", "yellow", "green", "black", "white" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "narancssárga", "piros", "kék", "rózsaszín", "sárga", "zöld", "fekete", "fehér" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45,
+        "star": false
+
+    },
+    {
+        "question": "Pair animals",
+        "answers": [ "tiger", "monkey", "zebra", "snake", "krokodil", "lion", "parrot", "cheetah" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "tigris", "majom", "zebra", "kígyó", "crocodile", "oroszlán", "papagáj", "gepárd" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45,
+        "star": false
+
+    }
+    ,
+    {
         "question": "Pair this please 4",
         "answers": [ "chair", "table", "pen", "teacher", "book", "clock", "loud", "quiet" ],
         "correctAnswer": "pair",
@@ -41,6 +64,105 @@
         "pairLanguage": "quiet",
         "timeLimit": 45,
         "star": false
+    },
+    {
+        "question": "Pair this loud",
+        "answers": [ "loud", "slow", "I'm hungry", "fish", "coffee", "lemonade", "water", "point" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "hangos", "lassú", "éhes vagyok", "hal", "kávé", "limonádé", "víz", "mutat" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45,
+        "star": false
+
+    },
+    {
+        "question": "Pair this sentences",
+        "answers": [ "Listen and say", "Do you like?", "Be careful!", "My turn", "Go back to start", "'I don't like'", "I like", "Thank You" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "Halgasd és mond", "Szereted?", "Légy óvatos", "Én jövök / én jövök sorra", "Menj vissza az elejére", "Nem szeretem", "Szerem", "Köszönöm" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45,
+        "star": false
+
+    },
+    {
+        "question": "Pair this x1",
+        "answers": [ "finish", "wheat", "cereal", "cakes", "brother", "look", "sister", "bug" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "befejez", "búza", "gabona", "sütemények", "fiútestvér", "néz", "lánytestvár", "bogár" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45,
+        "star": false
+
+    },
+    {
+        "question": "Pair this x2",
+        "answers": [ "spider", "crab", "star", "circle", "triangle", "ears", "firefighter", "climb", "walk" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "pók", "rák", "csillag", "kör", "áromszög", "fülek", "tűzoltó", "mászik", "sétál" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45,
+        "star": false
+
+    },
+        {
+        "question": "Pair this x3",
+        "answers": [ "paint", "spell", "count", "sing", "write", "swim", "jump", "draw" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "fest", "betűz", "számol", "énekel", "ír", "úszik", "ugrik", "rajzol" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45,
+        "star": false
+
+    },
+        {
+        "question": "Pair this x4",
+        "answers": [ "morning", "afternoon", "evening", "night", "noon", "happy", "sad" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "reggel", "délután", "este", "éjszaka", "dél", "boldog", "szomorú" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45,
+        "star": false
+
+    },
+        {
+        "question": "Pair this x5",
+        "answers": [ "tall", "short", "big", "small", "students", "doctor", "pilot", "actor" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "magas", "alacsony", "nagy", "kicsi", "tanuló", "doktor", "pilóta", "színész" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45,
+        "star": false
+
+    },
+        {
+        "question": "Pair this x6",
+        "answers": [ "police officer", "fly", "walk", "climb", "can", "can't", "read", "footballer" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "rendőr", "repül", "sétál", "mászik", "tud", "nem tud", "olvas", "focista" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45,
+        "star": false
+
+    },
+        {
+        "question": "Pair this sentences",
+        "answers": [ "artist", "eyes", "nose", "hand", "mouth", "write", "sing", "can't" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "művész", "szem", "orr", "kéz", "szák", "ír", "énekel", "mem tudja" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 45,
+        "star": false
+
     },
     {
         "question": "Pair this please 5",
