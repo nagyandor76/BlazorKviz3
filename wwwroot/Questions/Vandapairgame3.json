@@ -87,7 +87,7 @@
 
     },
     {
-        "question": "Pair this please 8",
+        "question": "Pair this please 9",
         "answers": [ "I hear",  "I don't hear", "with my eyes", "with my nose", "I see", "I don't like", "kezek" ],
         "correctAnswer": "pair",
         "answerPairs": [ "Hallom",  "Nem hallom", "szememmel", "orrommal", "látom", "nem szeretem", "hands" ],
