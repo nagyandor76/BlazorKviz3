@@ -45,10 +45,10 @@
     },
     {
         "question": "Pair animals",
-        "answers": [ "tiger", "monkey", "zebra", "snake", "krokodil", "lion", "parrot", "cheetah" ],
+        "answers": [ "tiger", "monkey", "a zebra", "snake", "krokodil", "lion", "parrot", "cheetah" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "tigris", "majom", "zebra", "kígyó", "crocodile", "oroszlán", "papagáj", "gepárd" ],
-        "answerLanguage": "en-GB",
+        "answerPairs": [ "tigris", "majom", "egy zebra", "kígyó", "crocodile", "oroszlán", "papagáj", "gepárd" ],
+        "answerLanguage": "quiet",
         "pairLanguage": "quiet",
         "timeLimit": 45,
         "star": false
@@ -154,10 +154,10 @@
 
     },
         {
-        "question": "Pair this sentences",
+        "question": "Pair this x8",
         "answers": [ "artist", "eyes", "nose", "hand", "mouth", "write", "sing", "can't" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "művész", "szem", "orr", "kéz", "szák", "ír", "énekel", "mem tudja" ],
+        "answerPairs": [ "művész", "szem", "orr", "kéz", "száj", "ír", "énekel", "nem tudja" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
         "timeLimit": 45,
