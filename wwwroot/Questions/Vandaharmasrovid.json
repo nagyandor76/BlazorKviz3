@@ -2,23 +2,23 @@
 
     {
         "question": "Pair this loud",
-        "answers": [ "loud", "slow", "I'm hungry", "fish", "coffee", "lemonade", "water", "point" ],
+        "answers": [ "loud", "slow",  "fish", "coffee", "lemonade", "water", "point" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "hangos", "lassú", "éhes vagyok", "hal", "kávé", "limonádé", "víz", "mutat" ],
+        "answerPairs": [ "hangos", "lassú",  "hal", "kávé", "limonádé", "víz", "mutat" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 45,
+        "timeLimit": 60,
         "star": false
 
     },
    {
         "question": "Pair this x3",
-        "answers": [ "paint", "spell", "count", "sing", "write", "swim", "jump", "draw" ],
+        "answers": [ "paint", "spell", "count", "sing", "write", "swim", "jump" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "fest", "betűz", "számol", "énekel", "ír", "úszik", "ugrik", "rajzol" ],
+        "answerPairs": [ "fest", "betűz", "számol", "énekel", "ír", "úszik", "ugrik" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 45,
+        "timeLimit": 60,
         "star": false
 
     },
@@ -29,18 +29,18 @@
         "answerPairs": [ "reggel", "délután", "este", "éjszaka", "dél", "boldog", "szomorú" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 45,
+        "timeLimit": 60,
         "star": false
 
     },
         {
         "question": "Pair this x5",
-        "answers": [ "tall", "short", "big", "small", "students",   "actor" ],
+        "answers": [ "tall", "short", "big", "small", "students",  "actor" ],
         "correctAnswer": "pair",
         "answerPairs": [ "magas", "alacsony", "nagy", "kicsi", "tanuló",  "színész" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 45,
+        "timeLimit": 60,
         "star": false
 
     },
@@ -51,51 +51,63 @@
         "answerPairs": [ "rendőr",  "sétál", "mászik", "tud", "nem tud", "olvas", "focista" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 45,
+        "timeLimit": 60,
         "star": false
 
     },
         {
         "question": "Pair this x8",
-        "answers": [ "artist", "eyes", "nose", "hand", "mouth", "write", "sing", "can't" ],
+        "answers": [ "artist", "eyes", "nose", "hand", "mouth", "write", "sing" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "művész", "szem", "orr", "kéz", "száj", "ír", "énekel", "nem tudja" ],
+        "answerPairs": [ "művész", "szem", "orr", "kéz", "száj", "ír", "énekel"  ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 45,
+        "timeLimit": 60,
         "star": false
 
     },
     {
         "question": "Pair this please 8",
-        "answers": [ "I like",  "Do You like?", "taste", "touch", "smell", "hear", "kezek" ],
+        "answers": [ "I like",  "Do You like?", "taste", "touch", "smell", "hear" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "Szeretem",  "Szereted?", "ízlel", "érint", "szagol", "hall", "hands" ],
+        "answerPairs": [ "Szeretem",  "Szereted?", "ízlel", "érint", "szagol", "hall"],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 45,
+        "timeLimit": 60,
         "star": false
 
     },
     {
         "question": "Pair this please 9",
-        "answers": [ "I hear",  "I don't hear", "with my eyes", "with my nose", "I see", "I don't like", "kezek" ],
+        "answers": [ "I hear",  "I don't hear", "with my eyes", "with my nose", "I see", "I don't like" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "Hallom",  "Nem hallom", "szememmel", "orrommal", "látom", "nem szeretem", "hands" ],
+        "answerPairs": [ "Hallom",  "Nem hallom", "szememmel", "orrommal", "látom", "nem szeretem"],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 45,
+        "timeLimit": 60,
         "star": false
 
     },
     {
         "question": "Pair this please 10",
-        "answers": [ "butter",  "I see", "mouth", "see", "soup", "and", "thank you", "face" ],
+        "answers": [ "butter",  "I see", "mouth", "see",  "and", "thank you", "face" ],
         "correctAnswer": "pair",
-        "answerPairs": [ "vaj",  "látom", "száj", "lát", "leves", "és", "közönöm", "arc" ],
+        "answerPairs": [ "vaj",  "látom", "száj", "lát", "és", "közönöm", "arc" ],
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 45,
+        "timeLimit": 60,
+        "star": false
+
+    }
+    ,
+    {
+        "question": "Pair this please 1",
+        "answers": [  "I see", "I'm hungry", "draw", "soup", "and",  "can't" , "hands" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "látom", "éhes vagyok", "rajzol", "leves", "és", "nem tudja", "kezek" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 60,
         "star": false
 
     }
