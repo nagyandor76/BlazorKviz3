@@ -1,6 +1,9 @@
 {
     "quizzes": [
         "DefaultQuestions",
+        "Greta Math",
+        "Vanda harmas rovid",
+        "Janka Past1",
         "English Janka",
         "English Vanda",
         "Janka Math 1",
@@ -13,8 +16,6 @@
         "Vanda English correction",
         "Vanda English Type",
         "Correct Order",
-        "Vanda harmas",
-        "Vanda harmas rovid"
-
+        "Vanda harmas"
     ]
 }

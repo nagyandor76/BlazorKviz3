@@ -1,0 +1,55 @@
+[
+
+    {
+        "question": "Múlt - Past #1",
+        "answers": [ "know", "knew",  "learn", "learnt", "learned", "leave", "left" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "tudni", "tudta",  "tanulni", "tanulta", "tanulták", "hagy", "hagyta" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 30,
+        "star": false
+
+    },
+    {
+        "question": "Múlt - Past #2",
+        "answers": [ "lend", "lent",  "let", "lie", "lay", "lose", "lost" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "kölcsönad", "kölcsönadta",  "enged", "fekszik", "feküdt", "elveszni", "elveszett" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 30,
+        "star": false
+
+    },    {
+        "question": "Múlt - Past #3",
+        "answers": [ "let", "make",  "made", "mean", "meant", "meet", "met" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "engedte", "csinálni",  "csinálta", "jelent", "jelentette", "találkozni", "találkozott" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 30,
+        "star": false
+
+    },    {
+        "question": "Múlt - Past #4",
+        "answers": [ "pay", "paid",  "put", "read", "ride", "rode", "ring" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "fizetni", "fizetett", "hagyta", "olvasni", "lovagolni", "lovagolt", "csengetni" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 30,
+        "star": false
+
+    },    {
+        "question": "Múlt - Past #5",
+        "answers": [ "put", "say",  "read (red)", "rang", "run", "ran", "said" ],
+        "correctAnswer": "pair",
+        "answerPairs": [ "tette", "mond",  "olvasta", "csöngetett", "fut", "futott", "mondta" ],
+        "answerLanguage": "en-GB",
+        "pairLanguage": "quiet",
+        "timeLimit": 30,
+        "star": false
+
+    }
+]
