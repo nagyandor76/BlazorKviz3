@@ -7,7 +7,7 @@
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 60,
+        "timeLimit": 50,
         "star": false
 
     },
@@ -18,129 +18,117 @@
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 60,
+        "timeLimit": 50,
         "star": false
 
     },
-        {
+    {
         "question": "Pair this 3",
         "answers": [ "mouth", "hair",  "pet cat", "parrot", "long tail", "nose", "animals" ],
         "answerPairs": [ "száj", "haj",  "házimacska", "papagáj", "hosszú farok", "orr", "állatok" ],
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 60,
+        "timeLimit": 50,
         "star": false
 
     },
-        {
+    {
         "question": "Pair this 4",
         "answers": [ "bat", "scary",  "fish", "short", "straight", "small", "snake" ],
         "answerPairs": [ "denevér", "ijesztő",  "hal", "alacsony", "egyenes", "kicsi", "kígyó" ],
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 60,
+        "timeLimit": 50,
         "star": false
 
     },
-        {
+    {
         "question": "Pair this 5",
         "answers": [ "brothers", "dog",  "long", "sister", "rubber", "sofa", "ruler" ],
         "answerPairs": [ "fiútestvérek", "kutya",  "magas", "lánytestvér", "radír", "kanapé", "vonalzó" ],
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 60,
+        "timeLimit": 50,
         "star": false
 
     },
-        {
+    {
         "question": "Pair this 6",
         "answers": [ "bedroom", "lamp",  "dining room", "kitchen", "bathroom", "father", "actor" ],
         "answerPairs": [ "hálószoba", "lámpa",  "ebédlő", "konyha", "fürdőszoba", "apa", "színész" ],
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 60,
+        "timeLimit": 50,
         "star": false
 
     },
-        {
+    {
         "question": "Pair this 7",
         "answers": [ "equals", "mother",  "rabbit", "plus", "taste", "minus", "times" ],
         "answerPairs": [ "egyenlő", "anya",  "nyuszi", "plussz", "íz", "mínusz", "alkalommal (többször)" ],
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 60,
+        "timeLimit": 50,
         "star": false
 
     },
-        {
+    {
         "question": "Pair this 8",
         "answers": [ "board", "desk",  "door", "mouse", "police officer", "firefighter", "teachers" ],
         "answerPairs": [ "tábla", "íróasztal",  "ajtó", "egér", "rendőr", "tűzoltó", "tanárok" ],
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 60,
+        "timeLimit": 50,
         "star": false
 
     },
-        {
+    {
         "question": "Pair this 9",
         "answers": [ "They're", "Open the door",  "Sit down!", "Stand up!", "Close the door!", "swim", "grandfather" ],
         "answerPairs": [ "Ők azok", "Nyisd ki az ajtót",  "Leülni", "Felálni", "Csukd be az ajtót", "úszik", "nagyapa" ],
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 60,
+        "timeLimit": 50,
         "star": false
 
     },
-        {
+    {
         "question": "Pair this 10",
         "answers": [ "It's", "We're",  "She's", "He's", "'I'm'", "I can", "I can't" ],
         "answerPairs": [ "Ez van", "Mi vagyunk",  "Ő az (lány)", "Ő az (fiú)", "Én vagyok", "tud (képes)", "nem tud (nem képes)" ],
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 60,
+        "timeLimit": 50,
         "star": false
 
     },
-        {
+    {
         "question": "Pair this 11",
         "answers": [ "climb", "sing",  "draw", "write", "count", "big" ],
         "answerPairs": [ "felmászik", "énekel",  "rajzol", "ír", "számol", "nagy" ],
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 60,
+        "timeLimit": 50,
         "star": false
 
     },
-        {
+    {
         "question": "Pair this 12",
         "answers": [ "has got", "hasn't got",  "draw", "tall", "short", "long", "count" ],
         "answerPairs": [ "ővé", "nem az övé",  "rajzol", "magas", "rövid", "hosszú", "számol" ],
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
-        "timeLimit": 60,
+        "timeLimit": 50,
         "star": false
-
-    },
-        {
-        "question": "Pair this 13",
-        "answers": [ "1", "2",  "3", "4", "5", "6", "7" ],
-        "answerPairs": [ "1", "2",  "3", "4", "5", "6", "7" ],
-        "correctAnswer": "pair",
-        "answerLanguage": "en-GB",
-        "pairLanguage": "quiet",
-        "timeLimit": 60,
-        "star": false
-
     }
 ]
