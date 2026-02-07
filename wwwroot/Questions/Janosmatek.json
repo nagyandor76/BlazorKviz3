@@ -1,0 +1,26 @@
+[
+
+    {
+        "question": "Pair this 1",
+        "answers": [ "1", "2",  "3", "4", "5" ],
+        "answerPairs": [ "*", "* *",  "* * *", "* * * *", "* * * * *" ],
+        "correctAnswer": "pair",
+        "answerLanguage": "hu-HU",
+        "pairLanguage": "quiet",
+        "timeLimit": 60,
+        "star": false
+
+    },
+    {
+        "question": "Pair this 2",
+        "answers": [ "1 + 1", "2 + 2",  "2 + 1", "5", "6" ],
+        "answerPairs": [ "* *", "* * * *", "3", "* * * * *", "* * * * * *" ],
+        "correctAnswer": "pair",
+        "answerLanguage": "hu-HU",
+        "pairLanguage": "quiet",
+        "timeLimit": 60,
+        "star": false
+
+    }
+
+]
