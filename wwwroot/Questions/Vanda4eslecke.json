@@ -3,7 +3,7 @@
     {
         "question": "Pair this 1",
         "answers": [ "I've got", "You're got",  "arms", "wings", "tail", "legs", "hands" ],
-        "answerPairs": [ "enyém", "tiéd",  "karok", "szárnyak", "farok", "lábak", "kezek" ],
+        "answerPairs": [ "nekem van", "neked van",  "karok", "szárnyak", "farok", "lábak", "kezek" ],
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
