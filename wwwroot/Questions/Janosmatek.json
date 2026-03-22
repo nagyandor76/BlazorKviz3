@@ -12,7 +12,18 @@
 
     },
     {
-        "question": "Pair this 2",
+        "question": "Pair this 12",
+        "answers": [ "3 + 3", "5 - 2",  "2 + 2", "4 - 3", "3 - 1" ],
+        "answerPairs": [ "* * * * * *", "* * *",  "* * * *", "*", "* *" ],
+        "correctAnswer": "pair",
+        "answerLanguage": "hu-HU",
+        "pairLanguage": "quiet",
+        "timeLimit": 60,
+        "star": false
+
+    },
+    {
+        "question": "Pair this 3",
         "answers": [ "1 + 1", "2 + 2",  "2 + 1", "5", "6" ],
         "answerPairs": [ "* *", "* * * *", "3", "* * * * *", "* * * * * *" ],
         "correctAnswer": "pair",
