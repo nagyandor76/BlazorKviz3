@@ -2,7 +2,7 @@
 
     {
         "question": "Pair this 1",
-        "answers": [ "I've got", "You're got",  "arms", "wings", "tail", "legs", "hands" ],
+        "answers": [ "I've got", "You've got",  "arms", "wings", "tail", "legs", "hands" ],
         "answerPairs": [ "nekem van", "neked van",  "karok", "szárnyak", "farok", "lábak", "kezek" ],
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
@@ -47,7 +47,7 @@
     {
         "question": "Pair this 5",
         "answers": [ "brothers", "dog",  "long", "sister", "rubber", "sofa", "ruler" ],
-        "answerPairs": [ "fiútestvérek", "kutya",  "magas", "lánytestvér", "radír", "kanapé", "vonalzó" ],
+        "answerPairs": [ "fiútestvérek", "kutya",  "hosszú", "lánytestvér", "radír", "kanapé", "vonalzó" ],
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
@@ -102,7 +102,7 @@
     {
         "question": "Pair this 10",
         "answers": [ "It's", "We're",  "She's", "He's", "'I'm'", "I can", "I can't" ],
-        "answerPairs": [ "Ez van", "Mi vagyunk",  "Ő az (lány)", "Ő az (fiú)", "Én vagyok", "tud (képes)", "nem tud (nem képes)" ],
+        "answerPairs": [ "Ez van", "Mi vagyunk",  "Ő az (lány)", "Ő az (fiú)", "Én vagyok", "Én tudok", "Én nem tudok" ],
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
@@ -124,7 +124,7 @@
     {
         "question": "Pair this 12",
         "answers": [ "has got", "hasn't got",   "tall", "short", "long", "count", "bug" ],
-        "answerPairs": [ "ővé", "nem az övé",  "magas", "rövid", "hosszú", "számol", "bogár" ],
+        "answerPairs": [ "neki van", "nincs neki",  "magas", "rövid", "hosszú", "számol", "bogár" ],
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
@@ -143,7 +143,7 @@
     },
     {
         "question": "Pair this 14",
-        "answers": [ "pet", "grandfater", "You're", "I am", "Open", "Close" ],
+        "answers": [ "pet", "grandfater", "You're", "I am", "open", "close" ],
         "answerPairs": [ "házikedvenc", "nagypapa", "Te vagy", "Én vagyok", "nyit", "zár" ],
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
