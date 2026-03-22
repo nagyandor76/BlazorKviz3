@@ -124,7 +124,7 @@
     {
         "question": "Pair this 12",
         "answers": [ "has got", "hasn't got",   "tall", "short", "long", "count", "bug" ],
-        "answerPairs": [ "ővé", "nem az övé",   "rajzol", "magas", "rövid", "hosszú", "számol", "bogár" ],
+        "answerPairs": [ "ővé", "nem az övé",  "magas", "rövid", "hosszú", "számol", "bogár" ],
         "correctAnswer": "pair",
         "answerLanguage": "en-GB",
         "pairLanguage": "quiet",
